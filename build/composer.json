@@ -2,5 +2,11 @@
     "minimum-stability": "dev",
     "require": {
         "juliushaertl/phpdoc-to-rst": "dev-master"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/MorrisJobke/Reflection.git"
+        }
+    ]
 }
